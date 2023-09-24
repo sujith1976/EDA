@@ -1,3 +1,4 @@
 # EDA
 exploratory data analysis
-used iris dataset
+1.iris dataset
+2.samplesuperstore
